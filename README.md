@@ -22,24 +22,10 @@ The solution is to be written in either Javascript or PHP.
 
 
 
+
 ***  PROJECT FOLDER STRUCTURE  ***
 
 This project contains a root folder which then contains a sub-directory (js - which also contains default.js file), an index.html file and a README.md file.
-
-The folder structure looks like this:
-
-root
-
-|- js
-
-|   |- default.js
-
-|
-
-|- index.html
-
-|- README.md
-
 
 You can run index.html directly on the browser. The default.js file in the js sub-directory is used inside the index.html file using <script> tag.
 
@@ -50,6 +36,7 @@ NOTED:
 
 
 *** DEFAULT.JS ***
+  
 The default.js file is a javascript file used to solve the problem above.
 
 In the script file, we have a function ( targetOperandsArray() ).
