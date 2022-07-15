@@ -8,6 +8,7 @@ For example:
 
 Input:
 nums = [2, 7, 11, 15]
+
 target = 9
 
 Output:
@@ -28,11 +29,17 @@ This project contains a root folder which then contains a sub-directory (js - wh
 The folder structure looks like this:
 
 root
+
 |- js
+
 |   |- default.js
+
 |
+
 |- index.html
+
 |- README.md
+
 
 You can run index.html directly on the browser. The default.js file in the js sub-directory is used inside the index.html file using <script> tag.
 
