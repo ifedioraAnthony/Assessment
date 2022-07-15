@@ -29,7 +29,7 @@ This project contains a root folder which then contains a sub-directory (js - wh
 
 You can run index.html directly on the browser. The default.js file in the js sub-directory is used inside the index.html file using <script> tag.
 
-NOTED:
+NOTE:
 * Once you run the index.html file on your browser
 * open your developer tool and get to the console.
 * Once in the console, you will see the output of the script (default.js).
